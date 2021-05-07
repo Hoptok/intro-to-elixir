@@ -1,0 +1,11 @@
+we'll learn some of the basics of elixir today
+
+1. go over types
+
+2. setting variables
+
+3. using conditionals when setting variables
+
+4. understand pattern matching
+
+5. go over enum
